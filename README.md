@@ -1,4 +1,4 @@
-# A simple OasisRansomwareModel
+# A simple Oasis Ransomware Model
 A ransomware attritional portfolio model for use with the Oasis Loss Modelling Framework. This model uses a portfolio as an input to generate monte carlo ransomware losses which take account of the company's revenue, sectors, and country. The model does not take into account the security posture of each individual company, it simply assumes a basis risk for for different revenue, sector, and country combinations. However, it does take account that some ransomware threat actors are more prolific than others, and make different targetting choices. 
 
 The losses will be modelled in USD, and the revenue of the companies should be provided in USD. However, the location of the company's HQ can be given different country codes. Thus the model is global in capability, and is senstive to sector and company revenue as well. The model is primarily designed for insurance or reinsurance companies to use, but may be useful for policy makers at the government or international levels as well. 
