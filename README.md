@@ -11,7 +11,7 @@ All models must have assumptions, and we try to openly declare ours here. We bel
 
 ## Ransomware losses can be caused by privacy and data breach, or digital asset and recovery
 
-Modern ransomware switches between multiple tactics, and thus we needed different sub coverages with in the model for incident response, digital asset and recovery, and extortion. We plan for business interruption in a future update of the model, and will consider other sub-coverages when new research comes to light that expllains them adequently.
+Modern ransomware switches between multiple tactics, and thus we needed different sub coverages with in the model for incident response, digital asset and recovery, and extortion. We plan for business interruption in a future update of the model, and will consider other sub-coverages when new research comes to light that explains them adequently.
 
 ## Ransom paid ratio:
 
@@ -27,4 +27,4 @@ Larger companies are hit more frequently than smaller companies, but the relativ
 
 ## Different threat actors drive different effects in frequency and severity:
 
-We have created sectoral, country, and revenue, variation for each of the threat actors in the model. So in the future, the emergent effects of their interactions can be studied. Thus if new threat actors arrive on the scene, we can plug them easily into future versions, and retire groups who are no longer active.
+We have created sectoral, country, and revenue, variation for each of the 45 threat actors in the model. So in the future, the emergent effects of their interactions can be studied. Thus if new threat actors arrive on the scene, we can plug them easily into future versions, and retire groups who are no longer active. The variations across groups are significant, and are also a significant factor in the dynamism of ransomware. The threat actor can have both frequency and severity effects, and so we have incorporated them as a class in the model to allow us flexibility.
