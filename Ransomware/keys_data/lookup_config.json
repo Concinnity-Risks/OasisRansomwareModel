@@ -1,0 +1,81 @@
+{
+    "model": {
+        "supplier_id": "Concinnity Risks",
+        "model_id": "Ransomware",
+        "model_version": 1.56
+    },
+    "builtin_lookup_type": "new_lookup",
+    "keys_data_path": "./",
+    "step_definition": {
+        "temp_AnnualRevenue_typing": {
+            "type": "prepare",
+            "columns": [
+                "AnnualRevenue"
+            ],
+            "parameters": {
+                "AnnualRevenue": {
+                    "type": "f4"
+                },
+                "coverage_type": {
+                    "default": 10
+                }
+            }
+        },
+        "compagny_size_map": {
+            "type": "interval_to_index",
+            "columns": [
+                "AnnualRevenue"
+            ],
+            "parameters": {
+                "sorted_array": "%%KEYS_DATA_PATH%%/company_size_intervals.csv",
+                "value_column_name": "AnnualRevenue",
+                "index_column_name": "companysize"
+            }
+        },
+        "area_peril": {
+            "type": "merge",
+            "columns": [
+                "companysize",
+                "CountryCode"
+            ],
+            "parameters": {
+                "file_path": "%%KEYS_DATA_PATH%%/area_peril_dict.csv",
+                "id_columns": [
+                    "area_peril_id"
+                ],
+                "usecols": [
+                    "companysize",
+                    "CountryCode",
+                    "area_peril_id",
+                    "peril_id"
+                ]
+            }
+        },
+        "vulnerability": {
+            "type": "merge",
+            "columns": [
+                "peril_id",
+                "companysize",
+                "CountryCode"
+            ],
+            "parameters": {
+                "file_path": "%%KEYS_DATA_PATH%%/vulnerability_dict.csv",
+                "id_columns": [
+                    "vulnerability_id"
+                ],
+                "usecols": [
+                    "companysize",
+                    "CountryCode",
+                    "vulnerability_id",
+                    "peril_id"
+                ]
+            }
+        }
+    },
+    "strategy": [
+        "temp_AnnualRevenue_typing",
+        "compagny_size_map",
+        "area_peril",
+        "vulnerability"
+    ]
+}

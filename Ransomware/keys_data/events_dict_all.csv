@@ -1,0 +1,541 @@
+event_id,group,month,year,num_events
+1,0mega,1,2023,0
+2,0mega,2,2023,0
+3,0mega,3,2023,12
+4,0mega,4,2023,0
+5,0mega,5,2023,0
+6,0mega,6,2023,0
+7,0mega,7,2023,0
+8,0mega,8,2023,0
+9,0mega,9,2023,0
+10,0mega,10,2023,0
+11,0mega,11,2023,0
+12,0mega,12,2023,0
+13,8base,1,2023,4
+14,8base,2,2023,20
+15,8base,3,2023,0
+16,8base,4,2023,0
+17,8base,5,2023,0
+18,8base,6,2023,0
+19,8base,7,2023,0
+20,8base,8,2023,1196
+21,8base,9,2023,80
+22,8base,10,2023,80
+23,8base,11,2023,20
+24,8base,12,2023,1456
+25,Abyss,1,2023,0
+26,Abyss,2,2023,0
+27,Abyss,3,2023,0
+28,Abyss,4,2023,0
+29,Abyss,5,2023,0
+30,Abyss,6,2023,0
+31,Abyss,7,2023,0
+32,Abyss,8,2023,48
+33,Abyss,9,2023,20
+34,Abyss,10,2023,8
+35,Abyss,11,2023,40
+36,Abyss,12,2023,12
+37,Akira,1,2023,356
+38,Akira,2,2023,16
+39,Akira,3,2023,0
+40,Akira,4,2023,0
+41,Akira,5,2023,0
+42,Akira,6,2023,0
+43,Akira,7,2023,0
+44,Akira,8,2023,112
+45,Akira,9,2023,0
+46,Akira,10,2023,16
+47,Akira,11,2023,20
+48,Akira,12,2023,8
+49,AlphaVM,1,2023,0
+50,AlphaVM,2,2023,0
+51,AlphaVM,3,2023,0
+52,AlphaVM,4,2023,4
+53,AlphaVM,5,2023,0
+54,AlphaVM,6,2023,32
+55,AlphaVM,7,2023,80
+56,AlphaVM,8,2023,208
+57,AlphaVM,9,2023,300
+58,AlphaVM,10,2023,236
+59,AlphaVM,11,2023,264
+60,AlphaVM,12,2023,144
+61,Arvin Club,1,2023,0
+62,Arvin Club,2,2023,0
+63,Arvin Club,3,2023,0
+64,Arvin Club,4,2023,0
+65,Arvin Club,5,2023,0
+66,Arvin Club,6,2023,0
+67,Arvin Club,7,2023,0
+68,Arvin Club,8,2023,0
+69,Arvin Club,9,2023,28
+70,Arvin Club,10,2023,8
+71,Arvin Club,11,2023,0
+72,Arvin Club,12,2023,0
+73,Babuk,1,2023,0
+74,Babuk,2,2023,0
+75,Babuk,3,2023,0
+76,Babuk,4,2023,0
+77,Babuk,5,2023,0
+78,Babuk,6,2023,0
+79,Babuk,7,2023,0
+80,Babuk,8,2023,0
+81,Babuk,9,2023,0
+82,Babuk,10,2023,0
+83,Babuk,11,2023,0
+84,Babuk,12,2023,0
+85,Bianlian,1,2023,0
+86,Bianlian,2,2023,0
+87,Bianlian,3,2023,0
+88,Bianlian,4,2023,0
+89,Bianlian,5,2023,4
+90,Bianlian,6,2023,12
+91,Bianlian,7,2023,92
+92,Bianlian,8,2023,48
+93,Bianlian,9,2023,44
+94,Bianlian,10,2023,52
+95,Bianlian,11,2023,28
+96,Bianlian,12,2023,56
+97,BlackBasta,1,2023,0
+98,BlackBasta,2,2023,0
+99,BlackBasta,3,2023,0
+100,BlackBasta,4,2023,0
+101,BlackBasta,5,2023,4
+102,BlackBasta,6,2023,12
+103,BlackBasta,7,2023,12
+104,BlackBasta,8,2023,8
+105,BlackBasta,9,2023,0
+106,BlackBasta,10,2023,60
+107,BlackBasta,11,2023,312
+108,BlackBasta,12,2023,120
+109,Cactus,1,2023,0
+110,Cactus,2,2023,0
+111,Cactus,3,2023,0
+112,Cactus,4,2023,0
+113,Cactus,5,2023,0
+114,Cactus,6,2023,0
+115,Cactus,7,2023,0
+116,Cactus,8,2023,148
+117,Cactus,9,2023,272
+118,Cactus,10,2023,72
+119,Cactus,11,2023,344
+120,Cactus,12,2023,1012
+121,Cl0p,1,2023,0
+122,Cl0p,2,2023,192
+123,Cl0p,3,2023,316
+124,Cl0p,4,2023,16
+125,Cl0p,5,2023,0
+126,Cl0p,6,2023,0
+127,Cl0p,7,2023,0
+128,Cl0p,8,2023,1384
+129,Cl0p,9,2023,2344
+130,Cl0p,10,2023,720
+131,Cl0p,11,2023,4284
+132,Cl0p,12,2023,44
+133,Cloak,1,2023,0
+134,Cloak,2,2023,0
+135,Cloak,3,2023,0
+136,Cloak,4,2023,0
+137,Cloak,5,2023,0
+138,Cloak,6,2023,0
+139,Cloak,7,2023,0
+140,Cloak,8,2023,0
+141,Cloak,9,2023,0
+142,Cloak,10,2023,0
+143,Cloak,11,2023,0
+144,Cloak,12,2023,36
+145,Cuba,1,2023,8
+146,Cuba,2,2023,0
+147,Cuba,3,2023,0
+148,Cuba,4,2023,0
+149,Cuba,5,2023,12
+150,Cuba,6,2023,0
+151,Cuba,7,2023,12
+152,Cuba,8,2023,0
+153,Cuba,9,2023,0
+154,Cuba,10,2023,8
+155,Cuba,11,2023,16
+156,Cuba,12,2023,0
+157,D#nut,1,2023,0
+158,D#nut,2,2023,0
+159,D#nut,3,2023,0
+160,D#nut,4,2023,0
+161,D#nut,5,2023,0
+162,D#nut,6,2023,0
+163,D#nut,7,2023,0
+164,D#nut,8,2023,0
+165,D#nut,9,2023,36
+166,D#nut,10,2023,20
+167,D#nut,11,2023,0
+168,D#nut,12,2023,0
+169,Daixin,1,2023,0
+170,Daixin,2,2023,0
+171,Daixin,3,2023,0
+172,Daixin,4,2023,0
+173,Daixin,5,2023,0
+174,Daixin,6,2023,0
+175,Daixin,7,2023,0
+176,Daixin,8,2023,0
+177,Daixin,9,2023,40
+178,Daixin,10,2023,0
+179,Daixin,11,2023,8
+180,Daixin,12,2023,4
+181,Dunghill,1,2023,0
+182,Dunghill,2,2023,0
+183,Dunghill,3,2023,0
+184,Dunghill,4,2023,0
+185,Dunghill,5,2023,0
+186,Dunghill,6,2023,0
+187,Dunghill,7,2023,0
+188,Dunghill,8,2023,0
+189,Dunghill,9,2023,56
+190,Dunghill,10,2023,0
+191,Dunghill,11,2023,0
+192,Dunghill,12,2023,48
+193,Everest,1,2023,0
+194,Everest,2,2023,0
+195,Everest,3,2023,0
+196,Everest,4,2023,4
+197,Everest,5,2023,0
+198,Everest,6,2023,0
+199,Everest,7,2023,0
+200,Everest,8,2023,4
+201,Everest,9,2023,20
+202,Everest,10,2023,4
+203,Everest,11,2023,8
+204,Everest,12,2023,0
+205,Hunters International,1,2023,0
+206,Hunters International,2,2023,0
+207,Hunters International,3,2023,0
+208,Hunters International,4,2023,0
+209,Hunters International,5,2023,0
+210,Hunters International,6,2023,0
+211,Hunters International,7,2023,0
+212,Hunters International,8,2023,0
+213,Hunters International,9,2023,0
+214,Hunters International,10,2023,0
+215,Hunters International,11,2023,168
+216,Hunters International,12,2023,148
+217,INC Ransom,1,2023,0
+218,INC Ransom,2,2023,0
+219,INC Ransom,3,2023,0
+220,INC Ransom,4,2023,0
+221,INC Ransom,5,2023,0
+222,INC Ransom,6,2023,0
+223,INC Ransom,7,2023,0
+224,INC Ransom,8,2023,0
+225,INC Ransom,9,2023,0
+226,INC Ransom,10,2023,0
+227,INC Ransom,11,2023,1484
+228,INC Ransom,12,2023,792
+229,Karakurt,1,2023,0
+230,Karakurt,2,2023,104
+231,Karakurt,3,2023,96
+232,Karakurt,4,2023,48
+233,Karakurt,5,2023,8
+234,Karakurt,6,2023,20
+235,Karakurt,7,2023,12
+236,Karakurt,8,2023,8
+237,Karakurt,9,2023,104
+238,Karakurt,10,2023,4
+239,Karakurt,11,2023,0
+240,Karakurt,12,2023,0
+241,Knight,1,2023,0
+242,Knight,2,2023,0
+243,Knight,3,2023,0
+244,Knight,4,2023,0
+245,Knight,5,2023,0
+246,Knight,6,2023,0
+247,Knight,7,2023,0
+248,Knight,8,2023,0
+249,Knight,9,2023,0
+250,Knight,10,2023,0
+251,Knight,11,2023,68
+252,Knight,12,2023,36
+253,Lockbit3,1,2023,1472
+254,Lockbit3,2,2023,812
+255,Lockbit3,3,2023,3260
+256,Lockbit3,4,2023,852
+257,Lockbit3,5,2023,708
+258,Lockbit3,6,2023,972
+259,Lockbit3,7,2023,584
+260,Lockbit3,8,2023,1960
+261,Lockbit3,9,2023,8220
+262,Lockbit3,10,2023,7688
+263,Lockbit3,11,2023,3408
+264,Lockbit3,12,2023,6348
+265,Lorenz,1,2023,240
+266,Lorenz,2,2023,16
+267,Lorenz,3,2023,20
+268,Lorenz,4,2023,52
+269,Lorenz,5,2023,0
+270,Lorenz,6,2023,0
+271,Lorenz,7,2023,64
+272,Lorenz,8,2023,40
+273,Lorenz,9,2023,216
+274,Lorenz,10,2023,48
+275,Lorenz,11,2023,36
+276,Lorenz,12,2023,16
+277,MalasLocker,1,2023,0
+278,MalasLocker,2,2023,0
+279,MalasLocker,3,2023,0
+280,MalasLocker,4,2023,0
+281,MalasLocker,5,2023,0
+282,MalasLocker,6,2023,4
+283,MalasLocker,7,2023,0
+284,MalasLocker,8,2023,0
+285,MalasLocker,9,2023,0
+286,MalasLocker,10,2023,0
+287,MalasLocker,11,2023,0
+288,MalasLocker,12,2023,0
+289,Mallox,1,2023,0
+290,Mallox,2,2023,0
+291,Mallox,3,2023,44
+292,Mallox,4,2023,0
+293,Mallox,5,2023,0
+294,Mallox,6,2023,40
+295,Mallox,7,2023,12
+296,Mallox,8,2023,100
+297,Mallox,9,2023,56
+298,Mallox,10,2023,116
+299,Mallox,11,2023,4
+300,Mallox,12,2023,100
+301,Medusa,1,2023,0
+302,Medusa,2,2023,0
+303,Medusa,3,2023,0
+304,Medusa,4,2023,0
+305,Medusa,5,2023,0
+306,Medusa,6,2023,0
+307,Medusa,7,2023,108
+308,Medusa,8,2023,76
+309,Medusa,9,2023,72
+310,Medusa,10,2023,104
+311,Medusa,11,2023,104
+312,Medusa,12,2023,88
+313,MetaEncryptor,1,2023,0
+314,MetaEncryptor,2,2023,0
+315,MetaEncryptor,3,2023,0
+316,MetaEncryptor,4,2023,0
+317,MetaEncryptor,5,2023,0
+318,MetaEncryptor,6,2023,0
+319,MetaEncryptor,7,2023,0
+320,MetaEncryptor,8,2023,0
+321,MetaEncryptor,9,2023,52
+322,MetaEncryptor,10,2023,0
+323,MetaEncryptor,11,2023,12
+324,MetaEncryptor,12,2023,8
+325,Money Message,1,2023,0
+326,Money Message,2,2023,0
+327,Money Message,3,2023,0
+328,Money Message,4,2023,0
+329,Money Message,5,2023,0
+330,Money Message,6,2023,0
+331,Money Message,7,2023,0
+332,Money Message,8,2023,32
+333,Money Message,9,2023,20
+334,Money Message,10,2023,16
+335,Money Message,11,2023,0
+336,Money Message,12,2023,0
+337,Monti,1,2023,0
+338,Monti,2,2023,0
+339,Monti,3,2023,0
+340,Monti,4,2023,0
+341,Monti,5,2023,24
+342,Monti,6,2023,0
+343,Monti,7,2023,4
+344,Monti,8,2023,4
+345,Monti,9,2023,4
+346,Monti,10,2023,12
+347,Monti,11,2023,8
+348,Monti,12,2023,12
+349,NoEscape,1,2023,0
+350,NoEscape,2,2023,0
+351,NoEscape,3,2023,0
+352,NoEscape,4,2023,0
+353,NoEscape,5,2023,0
+354,NoEscape,6,2023,0
+355,NoEscape,7,2023,0
+356,NoEscape,8,2023,0
+357,NoEscape,9,2023,212
+358,NoEscape,10,2023,472
+359,NoEscape,11,2023,288
+360,NoEscape,12,2023,48
+361,Nokoyawa,1,2023,0
+362,Nokoyawa,2,2023,0
+363,Nokoyawa,3,2023,0
+364,Nokoyawa,4,2023,0
+365,Nokoyawa,5,2023,0
+366,Nokoyawa,6,2023,0
+367,Nokoyawa,7,2023,0
+368,Nokoyawa,8,2023,32
+369,Nokoyawa,9,2023,0
+370,Nokoyawa,10,2023,0
+371,Nokoyawa,11,2023,0
+372,Nokoyawa,12,2023,0
+373,Play,1,2023,0
+374,Play,2,2023,0
+375,Play,3,2023,12
+376,Play,4,2023,0
+377,Play,5,2023,8
+378,Play,6,2023,20
+379,Play,7,2023,132
+380,Play,8,2023,156
+381,Play,9,2023,372
+382,Play,10,2023,788
+383,Play,11,2023,800
+384,Play,12,2023,608
+385,Qilin,1,2023,0
+386,Qilin,2,2023,0
+387,Qilin,3,2023,0
+388,Qilin,4,2023,0
+389,Qilin,5,2023,16
+390,Qilin,6,2023,20
+391,Qilin,7,2023,4
+392,Qilin,8,2023,68
+393,Qilin,9,2023,24
+394,Qilin,10,2023,28
+395,Qilin,11,2023,12
+396,Qilin,12,2023,32
+397,Quantum,1,2023,200
+398,Quantum,2,2023,196
+399,Quantum,3,2023,0
+400,Quantum,4,2023,0
+401,Quantum,5,2023,0
+402,Quantum,6,2023,0
+403,Quantum,7,2023,32
+404,Quantum,8,2023,16
+405,Quantum,9,2023,200
+406,Quantum,10,2023,0
+407,Quantum,11,2023,0
+408,Quantum,12,2023,0
+409,RA Group,1,2023,0
+410,RA Group,2,2023,0
+411,RA Group,3,2023,0
+412,RA Group,4,2023,0
+413,RA Group,5,2023,0
+414,RA Group,6,2023,0
+415,RA Group,7,2023,0
+416,RA Group,8,2023,0
+417,RA Group,9,2023,20
+418,RA Group,10,2023,16
+419,RA Group,11,2023,36
+420,RA Group,12,2023,24
+421,REvil,1,2023,0
+422,REvil,2,2023,0
+423,REvil,3,2023,0
+424,REvil,4,2023,0
+425,REvil,5,2023,0
+426,REvil,6,2023,0
+427,REvil,7,2023,0
+428,REvil,8,2023,0
+429,REvil,9,2023,0
+430,REvil,10,2023,0
+431,REvil,11,2023,0
+432,REvil,12,2023,0
+433,Ragnar_Locker,1,2023,0
+434,Ragnar_Locker,2,2023,184
+435,Ragnar_Locker,3,2023,140
+436,Ragnar_Locker,4,2023,4
+437,Ragnar_Locker,5,2023,36
+438,Ragnar_Locker,6,2023,0
+439,Ragnar_Locker,7,2023,60
+440,Ragnar_Locker,8,2023,64
+441,Ragnar_Locker,9,2023,360
+442,Ragnar_Locker,10,2023,44
+443,Ragnar_Locker,11,2023,0
+444,Ragnar_Locker,12,2023,0
+445,Ransom House,1,2023,0
+446,Ransom House,2,2023,8
+447,Ransom House,3,2023,172
+448,Ransom House,4,2023,40
+449,Ransom House,5,2023,12
+450,Ransom House,6,2023,24
+451,Ransom House,7,2023,52
+452,Ransom House,8,2023,4
+453,Ransom House,9,2023,16
+454,Ransom House,10,2023,20
+455,Ransom House,11,2023,16
+456,Ransom House,12,2023,16
+457,RansomEXX,1,2023,60
+458,RansomEXX,2,2023,4
+459,RansomEXX,3,2023,4
+460,RansomEXX,4,2023,0
+461,RansomEXX,5,2023,0
+462,RansomEXX,6,2023,8
+463,RansomEXX,7,2023,72
+464,RansomEXX,8,2023,0
+465,RansomEXX,9,2023,68
+466,RansomEXX,10,2023,4
+467,RansomEXX,11,2023,16
+468,RansomEXX,12,2023,4
+469,Relic,1,2023,0
+470,Relic,2,2023,0
+471,Relic,3,2023,0
+472,Relic,4,2023,0
+473,Relic,5,2023,0
+474,Relic,6,2023,0
+475,Relic,7,2023,0
+476,Relic,8,2023,0
+477,Relic,9,2023,0
+478,Relic,10,2023,0
+479,Relic,11,2023,0
+480,Relic,12,2023,0
+481,Rhysida,1,2023,0
+482,Rhysida,2,2023,0
+483,Rhysida,3,2023,0
+484,Rhysida,4,2023,0
+485,Rhysida,5,2023,0
+486,Rhysida,6,2023,0
+487,Rhysida,7,2023,0
+488,Rhysida,8,2023,328
+489,Rhysida,9,2023,208
+490,Rhysida,10,2023,336
+491,Rhysida,11,2023,208
+492,Rhysida,12,2023,124
+493,Royal,1,2023,16
+494,Royal,2,2023,0
+495,Royal,3,2023,0
+496,Royal,4,2023,0
+497,Royal,5,2023,68
+498,Royal,6,2023,4
+499,Royal,7,2023,12
+500,Royal,8,2023,0
+501,Royal,9,2023,0
+502,Royal,10,2023,0
+503,Royal,11,2023,0
+504,Royal,12,2023,0
+505,Snatch,1,2023,24
+506,Snatch,2,2023,12
+507,Snatch,3,2023,0
+508,Snatch,4,2023,8
+509,Snatch,5,2023,20
+510,Snatch,6,2023,52
+511,Snatch,7,2023,44
+512,Snatch,8,2023,44
+513,Snatch,9,2023,36
+514,Snatch,10,2023,52
+515,Snatch,11,2023,4
+516,Snatch,12,2023,0
+517,ThreeAM,1,2023,0
+518,ThreeAM,2,2023,0
+519,ThreeAM,3,2023,0
+520,ThreeAM,4,2023,0
+521,ThreeAM,5,2023,0
+522,ThreeAM,6,2023,0
+523,ThreeAM,7,2023,0
+524,ThreeAM,8,2023,0
+525,ThreeAM,9,2023,0
+526,ThreeAM,10,2023,0
+527,ThreeAM,11,2023,80
+528,ThreeAM,12,2023,44
+529,Vice,1,2023,0
+530,Vice,2,2023,0
+531,Vice,3,2023,12
+532,Vice,4,2023,32
+533,Vice,5,2023,40
+534,Vice,6,2023,12
+535,Vice,7,2023,8
+536,Vice,8,2023,4
+537,Vice,9,2023,208
+538,Vice,10,2023,0
+539,Vice,11,2023,0
+540,Vice,12,2023,0
